@@ -1,3 +1,3 @@
 # veevoyel.github.io
 
-[GodotKeyNotionsFrench.html](Guide sur les notions clés de Godot)
+[Guide sur les notions clés de Godot](./GodotKeyNotionsFrench.html)
